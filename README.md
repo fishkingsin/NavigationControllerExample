@@ -1,1 +1,2 @@
 # NavigationControllerExample
+![](screen.gif)
